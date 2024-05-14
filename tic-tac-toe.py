@@ -55,3 +55,49 @@ while True:
     elif is_drawn():
         print("its  a drawn")
         break
+
+# ------------------------------------------------------------
+# OUTPUT
+
+# | | | |
+# | | | |
+# | | | |
+
+# Your turn payer1
+# enter the move(1-9):1
+
+# |X| | |
+# | | | |
+# | | | |
+
+# Your turn payer2
+# enter the move(1-9):2
+
+# |X|O| |
+# | | | |
+# | | | |
+
+# Your turn payer1
+# enter the move(1-9):5
+
+# |X|O| |
+# | |X| |
+# | | | |
+
+# Your turn payer2
+# enter the move(1-9):3
+
+# |X|O|O|
+# | |X| |
+# | | | |
+
+# Your turn payer1
+# enter the move(1-9):9
+
+# |X|O|O|
+# | |X| |
+# | | |X|
+
+# X wins! congrats
+
+# -------------------------------------------------------------------
