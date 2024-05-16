@@ -55,11 +55,6 @@ while True:
     elif is_drawn():
         print("its  a drawn")
         break
-<<<<<<< HEAD
-    
-    
-    
-=======
 
 # ------------------------------------------------------------
 # OUTPUT
