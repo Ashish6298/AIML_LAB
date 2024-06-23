@@ -26,7 +26,7 @@ def astar(start_node,stop_node):
                             closed_set.remove(m)
                             open_set.add(m)
         if n==None:
-            prnt('path doesnt exist')
+            print('path doesnt exist')
             return None
         if n==stop_node:
             path=[]
@@ -75,3 +75,7 @@ astar('A','J')
 
 # OUTPUT
 # path found: ['A', 'F', 'G', 'I', 'J']
+
+
+
+
